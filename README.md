@@ -5,3 +5,4 @@ This is the first application for the
 by [Michael Hartl](http://michaelhartl.com/).
 
 extra line added
+one more
